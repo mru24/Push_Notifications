@@ -1,0 +1,21 @@
+{
+  "name": "push_notifications_using_node",
+  "version": "1.0.0",
+  "description": "Push Notifications Using Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "PushNotificationsUsingNode\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C_\u001b[D\u001b[3~\u001b[N\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[2~_Notifications_Using_Node"
+  },
+  "keywords": [
+    "push",
+    "notifications",
+    "using",
+    "node"
+  ],
+  "author": "Val Wroblewski",
+  "license": "ISC"
+}
